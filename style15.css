@@ -1,0 +1,238 @@
+#main{
+
+	overflow-y:hidden;
+overflow-x:hidden;
+width:700px;
+height:500px;
+
+position:relative;
+top:50px;
+left:200px;
+}
+body{
+background:rgb(230,230,230);
+
+}
+#bird{
+position:absolute;
+top:180px;
+left:220px;
+z-index:100;
+margin:0px;
+padding:0px;
+outline:0;
+}
+#terain{
+	width:17700px;
+	height:550px;
+background:black;
+position:absolute;
+top:85px;
+background-image:url("https://t0.rbxcdn.com/d7ca67278858823d19c95902aa84494c");
+margin:0px;
+padding:0px;
+overflow:hidden;
+}
+#obstacle{
+width:70px;
+height:150px;
+background:green;
+visibility:visible;
+position:relative;
+top:-40px;
+left:900px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle1{
+width:70px;
+height:150px;
+background:green;
+visibility:visible;
+position:relative;
+top:135px;
+left:900px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-top:2px solid rgb(30,30,30);
+
+}
+#obstacle2{
+width:70px;
+height:190px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:60px;
+left:1200px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-top:2px solid rgb(30,30,30);
+
+
+
+}
+#obstacle3{
+width:70px;
+height:150px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:570px;
+left:1200px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+
+}
+#obstacle4{
+width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:430px;
+left:1500px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-top:2px solid rgb(30,30,30);
+
+}
+#obstacle5{
+width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:1300px;
+left:1500px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+
+
+}
+#obstacle6{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:150px;
+left:1800px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle7{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:1280px;
+left:1800px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+
+
+}
+
+#obstacle8{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:1400px;
+left:2100px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle9{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:2050px;
+left:2100px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle10{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:2250px;
+left:2400px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle11{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:2100px;
+left:2400px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle12{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:2320px;
+left:2700px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle13{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:2960px;
+left:2700px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle14{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:2650px;
+left:3000px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
+#obstacle6{
+	width:70px;
+height:250px;
+background:green;
+visibility:visible;
+position:relative;
+bottom:2250px;
+left:3000px;
+border-left:2px solid rgb(30,30,30);
+border-right:2px solid rgb(30,30,30);
+border-bottom:2px solid rgb(30,30,30);
+}
